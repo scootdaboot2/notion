@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "src/main.jsx",
   "dependencies": {
-    "preact": "^10.5.13",
-    "preact-router": "^4.0.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "preact": "^10.5.13",
+    "preact-router": "^4.0.1",
     "date-fns": "^2.29.2"
   },
   "scripts": {
