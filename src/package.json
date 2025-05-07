@@ -1,7 +1,7 @@
 {
   "name": "time-tracker",
   "version": "1.0.0",
-  "main": "src/TimeTracker.js",
+  "main": "src/main.jsx",
   "dependencies": {
     "preact": "^10.5.13",
     "preact-router": "^4.0.1",
@@ -10,8 +10,8 @@
     "date-fns": "^2.29.2"
   },
   "scripts": {
-    "dev": "preact build && preact watch",
-    "build": "preact build",
-    "start": "preact serve"
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
   }
 }
